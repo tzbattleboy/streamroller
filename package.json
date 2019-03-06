@@ -1,5 +1,5 @@
 {
-  "name": "streamroller",
+  "name": "sc-streamroller",
   "version": "1.0.3",
   "description": "file streams that roll over when size limits, or dates are reached",
   "main": "lib/index.js",
